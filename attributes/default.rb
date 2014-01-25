@@ -1,6 +1,6 @@
 
-default[:utils][:repository_url] = "https://github.com/deeperton/jquery-mobile.git"
+default[:utils][:repository_url] = ""
 
-default[:utils][:developer_username] = "Anton Artyukh"
-default[:utils][:developer_email] = "jqm_contribution@exadel.com"
+default[:utils][:developer_username] = ""
+default[:utils][:developer_email] = ""
 default[:utils][:mkdirs] = ['web-tests']
